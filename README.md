@@ -5,4 +5,4 @@ To be able to do this,
 - Get a domain and server to host the website (or Just Facebook Page / Youtube Channel) 
 - Arrange a public bank account and POBOX to raise fund and receive donation
 - Keep collecting news, media activities related to robotics
-- Have a meeting @ IREX and Pick a winner
+- Have a meeting @ IREX and pick a winner
